@@ -1,0 +1,502 @@
+[
+    {
+        "Gender": "Male",
+        "HeightCm": 134,
+        "WeightKg": 98
+    },
+    {
+        "Gender": "Female",
+        "HeightCm": 135,
+        "WeightKg": 48
+    },
+    {
+        "Gender": "Male",
+        "HeightCm": 133,
+        "WeightKg": 65
+    },
+    {
+        "Gender": "Male",
+        "HeightCm": 118,
+        "WeightKg": 34
+    },
+    {
+        "Gender": "Female",
+        "HeightCm": 135,
+        "WeightKg": 86
+    },
+    {
+        "Gender": "Female",
+        "HeightCm": 170,
+        "WeightKg": 71
+    },
+    {
+        "Gender": "Female",
+        "HeightCm": 129,
+        "WeightKg": 31
+    },
+    {
+        "Gender": "Male",
+        "HeightCm": 127,
+        "WeightKg": 35
+    },
+    {
+        "Gender": "Male",
+        "HeightCm": 134,
+        "WeightKg": 34
+    },
+    {
+        "Gender": "Male",
+        "HeightCm": 148,
+        "WeightKg": 37
+    },
+    {
+        "Gender": "Male",
+        "HeightCm": 166,
+        "WeightKg": 37
+    },
+    {
+        "Gender": "Male",
+        "HeightCm": 136,
+        "WeightKg": 32
+    },
+    {
+        "Gender": "Female",
+        "HeightCm": 113,
+        "WeightKg": 47
+    },
+    {
+        "Gender": "Female",
+        "HeightCm": 150,
+        "WeightKg": 100
+    },
+    {
+        "Gender": "Female",
+        "HeightCm": 154,
+        "WeightKg": 38
+    },
+    {
+        "Gender": "Male",
+        "HeightCm": 149,
+        "WeightKg": 92
+    },
+    {
+        "Gender": "Female",
+        "HeightCm": 122,
+        "WeightKg": 90
+    },
+    {
+        "Gender": "Female",
+        "HeightCm": 139,
+        "WeightKg": 63
+    },
+    {
+        "Gender": "Male",
+        "HeightCm": 125,
+        "WeightKg": 35
+    },
+    {
+        "Gender": "Male",
+        "HeightCm": 147,
+        "WeightKg": 81
+    },
+    {
+        "Gender": "Female",
+        "HeightCm": 126,
+        "WeightKg": 96
+    },
+    {
+        "Gender": "Male",
+        "HeightCm": 164,
+        "WeightKg": 50
+    },
+    {
+        "Gender": "Male",
+        "HeightCm": 138,
+        "WeightKg": 100
+    },
+    {
+        "Gender": "Male",
+        "HeightCm": 116,
+        "WeightKg": 89
+    },
+    {
+        "Gender": "Male",
+        "HeightCm": 148,
+        "WeightKg": 61
+    },
+    {
+        "Gender": "Male",
+        "HeightCm": 148,
+        "WeightKg": 72
+    },
+    {
+        "Gender": "Female",
+        "HeightCm": 142,
+        "WeightKg": 95
+    },
+    {
+        "Gender": "Female",
+        "HeightCm": 117,
+        "WeightKg": 59
+    },
+    {
+        "Gender": "Female",
+        "HeightCm": 112,
+        "WeightKg": 33
+    },
+    {
+        "Gender": "Female",
+        "HeightCm": 153,
+        "WeightKg": 88
+    },
+    {
+        "Gender": "Female",
+        "HeightCm": 144,
+        "WeightKg": 96
+    },
+    {
+        "Gender": "Female",
+        "HeightCm": 149,
+        "WeightKg": 44
+    },
+    {
+        "Gender": "Male",
+        "HeightCm": 132,
+        "WeightKg": 96
+    },
+    {
+        "Gender": "Female",
+        "HeightCm": 165,
+        "WeightKg": 54
+    },
+    {
+        "Gender": "Female",
+        "HeightCm": 169,
+        "WeightKg": 72
+    },
+    {
+        "Gender": "Male",
+        "HeightCm": 163,
+        "WeightKg": 54
+    },
+    {
+        "Gender": "Female",
+        "HeightCm": 162,
+        "WeightKg": 46
+    },
+    {
+        "Gender": "Male",
+        "HeightCm": 159,
+        "WeightKg": 36
+    },
+    {
+        "Gender": "Male",
+        "HeightCm": 162,
+        "WeightKg": 98
+    },
+    {
+        "Gender": "Female",
+        "HeightCm": 169,
+        "WeightKg": 81
+    },
+    {
+        "Gender": "Male",
+        "HeightCm": 115,
+        "WeightKg": 100
+    },
+    {
+        "Gender": "Male",
+        "HeightCm": 126,
+        "WeightKg": 70
+    },
+    {
+        "Gender": "Male",
+        "HeightCm": 116,
+        "WeightKg": 83
+    },
+    {
+        "Gender": "Female",
+        "HeightCm": 112,
+        "WeightKg": 70
+    },
+    {
+        "Gender": "Male",
+        "HeightCm": 158,
+        "WeightKg": 31
+    },
+    {
+        "Gender": "Female",
+        "HeightCm": 149,
+        "WeightKg": 69
+    },
+    {
+        "Gender": "Female",
+        "HeightCm": 112,
+        "WeightKg": 61
+    },
+    {
+        "Gender": "Male",
+        "HeightCm": 123,
+        "WeightKg": 71
+    },
+    {
+        "Gender": "Female",
+        "HeightCm": 162,
+        "WeightKg": 53
+    },
+    {
+        "Gender": "Female",
+        "HeightCm": 133,
+        "WeightKg": 100
+    },
+    {
+        "Gender": "Male",
+        "HeightCm": 113,
+        "WeightKg": 88
+    },
+    {
+        "Gender": "Male",
+        "HeightCm": 126,
+        "WeightKg": 73
+    },
+    {
+        "Gender": "Female",
+        "HeightCm": 137,
+        "WeightKg": 38
+    },
+    {
+        "Gender": "Female",
+        "HeightCm": 124,
+        "WeightKg": 48
+    },
+    {
+        "Gender": "Female",
+        "HeightCm": 160,
+        "WeightKg": 78
+    },
+    {
+        "Gender": "Female",
+        "HeightCm": 136,
+        "WeightKg": 52
+    },
+    {
+        "Gender": "Female",
+        "HeightCm": 111,
+        "WeightKg": 52
+    },
+    {
+        "Gender": "Male",
+        "HeightCm": 128,
+        "WeightKg": 44
+    },
+    {
+        "Gender": "Male",
+        "HeightCm": 110,
+        "WeightKg": 74
+    },
+    {
+        "Gender": "Female",
+        "HeightCm": 162,
+        "WeightKg": 82
+    },
+    {
+        "Gender": "Male",
+        "HeightCm": 163,
+        "WeightKg": 50
+    },
+    {
+        "Gender": "Female",
+        "HeightCm": 114,
+        "WeightKg": 28
+    },
+    {
+        "Gender": "Female",
+        "HeightCm": 143,
+        "WeightKg": 74
+    },
+    {
+        "Gender": "Female",
+        "HeightCm": 167,
+        "WeightKg": 90
+    },
+    {
+        "Gender": "Male",
+        "HeightCm": 146,
+        "WeightKg": 100
+    },
+    {
+        "Gender": "Female",
+        "HeightCm": 133,
+        "WeightKg": 100
+    },
+    {
+        "Gender": "Female",
+        "HeightCm": 132,
+        "WeightKg": 97
+    },
+    {
+        "Gender": "Male",
+        "HeightCm": 133,
+        "WeightKg": 73
+    },
+    {
+        "Gender": "Female",
+        "HeightCm": 161,
+        "WeightKg": 56
+    },
+    {
+        "Gender": "Male",
+        "HeightCm": 142,
+        "WeightKg": 52
+    },
+    {
+        "Gender": "Female",
+        "HeightCm": 134,
+        "WeightKg": 81
+    },
+    {
+        "Gender": "Male",
+        "HeightCm": 148,
+        "WeightKg": 39
+    },
+    {
+        "Gender": "Male",
+        "HeightCm": 122,
+        "WeightKg": 43
+    },
+    {
+        "Gender": "Female",
+        "HeightCm": 167,
+        "WeightKg": 93
+    },
+    {
+        "Gender": "Male",
+        "HeightCm": 119,
+        "WeightKg": 72
+    },
+    {
+        "Gender": "Male",
+        "HeightCm": 157,
+        "WeightKg": 99
+    },
+    {
+        "Gender": "Female",
+        "HeightCm": 132,
+        "WeightKg": 31
+    },
+    {
+        "Gender": "Male",
+        "HeightCm": 117,
+        "WeightKg": 69
+    },
+    {
+        "Gender": "Male",
+        "HeightCm": 142,
+        "WeightKg": 68
+    },
+    {
+        "Gender": "Male",
+        "HeightCm": 124,
+        "WeightKg": 31
+    },
+    {
+        "Gender": "Male",
+        "HeightCm": 128,
+        "WeightKg": 27
+    },
+    {
+        "Gender": "Male",
+        "HeightCm": 170,
+        "WeightKg": 62
+    },
+    {
+        "Gender": "Male",
+        "HeightCm": 113,
+        "WeightKg": 89
+    },
+    {
+        "Gender": "Female",
+        "HeightCm": 169,
+        "WeightKg": 73
+    },
+    {
+        "Gender": "Male",
+        "HeightCm": 138,
+        "WeightKg": 30
+    },
+    {
+        "Gender": "Female",
+        "HeightCm": 160,
+        "WeightKg": 72
+    },
+    {
+        "Gender": "Female",
+        "HeightCm": 161,
+        "WeightKg": 64
+    },
+    {
+        "Gender": "Male",
+        "HeightCm": 167,
+        "WeightKg": 31
+    },
+    {
+        "Gender": "Male",
+        "HeightCm": 162,
+        "WeightKg": 97
+    },
+    {
+        "Gender": "Male",
+        "HeightCm": 128,
+        "WeightKg": 56
+    },
+    {
+        "Gender": "Male",
+        "HeightCm": 127,
+        "WeightKg": 25
+    },
+    {
+        "Gender": "Female",
+        "HeightCm": 127,
+        "WeightKg": 69
+    },
+    {
+        "Gender": "Female",
+        "HeightCm": 146,
+        "WeightKg": 46
+    },
+    {
+        "Gender": "Female",
+        "HeightCm": 130,
+        "WeightKg": 49
+    },
+    {
+        "Gender": "Male",
+        "HeightCm": 155,
+        "WeightKg": 52
+    },
+    {
+        "Gender": "Female",
+        "HeightCm": 114,
+        "WeightKg": 99
+    },
+    {
+        "Gender": "Female",
+        "HeightCm": 153,
+        "WeightKg": 59
+    },
+    {
+        "Gender": "Male",
+        "HeightCm": 122,
+        "WeightKg": 66
+    },
+    {
+        "Gender": "Female",
+        "HeightCm": 117,
+        "WeightKg": 33
+    },
+    {
+        "Gender": "Female",
+        "HeightCm": 146,
+        "WeightKg": 55
+    }
+]
